@@ -136,4 +136,4 @@ This project was developed as part of **Experiential Learning (EL) Phase 2** at 
 
 ## Authors
 
-**K. Karthik Pai** — [@k-karthik-pai](https://github.com/k-karthik-pai)
+**K Karthik Pai** — [@k-karthik-pai](https://github.com/k-karthik-pai)
